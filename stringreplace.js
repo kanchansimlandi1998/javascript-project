@@ -1,0 +1,16 @@
+let str="ilovejavascript";
+console.log(str.charAt(0));
+console.log(str.charAt(1));
+console.log(str.charAt(2));
+console.log(str.charAt(3));
+console.log(str.charAt(4));
+console.log(str.charAt(5));
+console.log(str.charAt(6));
+console.log(str.charAt(7));
+console.log(str.charAt(8));
+console.log(str.charAt(9));
+console.log(str.charAt(10));
+console.log(str.charAt(11));
+console.log(str.charAt(12));
+console.log(str.charAt(13));
+console.log(str.charAt(14));
